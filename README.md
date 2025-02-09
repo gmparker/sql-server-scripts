@@ -15,6 +15,8 @@ Stored Procedure Execution Counts.sql
 
 WaitingTasks.sql
 
+WhoIsActive (production).sql
+
 [*Back to top*](#header1)
 
 ## QueryPlanCache: 
