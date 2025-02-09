@@ -7,9 +7,13 @@ experts in the industry (given appropriate credit) that I have acquired over the
 
 ## Live TroubleShooting
 
+SOS Scheduler Yields.sql
+
 Statement Execution Counts.sql
 
 Stored Procedure Execution Counts.sql
+
+WaitingTasks.sql
 
 [*Back to top*](#header1)
 
