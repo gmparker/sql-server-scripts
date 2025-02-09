@@ -1,5 +1,8 @@
 # sql-server-scripts
-Collection of MS SQL Server Related Scripts
+This is a collection of MS SQL Server related scripts that I use on a frequent basis to troubleshoot and resolve
+issues in production. Some of them are scripts that I have written from scratch, others are scripts from
+experts in the industry (given appropriate credit) that I have acquired over the years.
+
 <a name="header1"></a>
 
 ## Live TroubleShooting
