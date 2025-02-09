@@ -16,3 +16,4 @@ TopSQLErrors.sql
 
 ## License
 [*Back to top*](#header1)
+
