@@ -4,6 +4,14 @@ Collection of MS SQL Server Related Scripts
  
 ## QueryPlanCache: 
 
+Query Plan Cache.sql
+
+Recompile Sprocs - Recompile Hammer.sql
+
+## SentryOne
+
+TopSQLErrors.sql
+
 [*Back to top*](#header1)
 
 ## License
